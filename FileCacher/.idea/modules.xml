@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FileCacher.iml" filepath="$PROJECT_DIR$/FileCacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FileCacher-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FileCacher-app.iml" group="FileCacher/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Wekaweka-FileCacher.iml" filepath="$PROJECT_DIR$/.idea/modules/Wekaweka-FileCacher.iml" group="FileCacher" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
